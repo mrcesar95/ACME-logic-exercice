@@ -20,7 +20,7 @@ npm install
 3. In the path `./src/employeesInOffice.test.js`, you will see:
 
 ```js
-const PATH = '/home/kique/ioet-aplication/src/datasetsOfData.txt';
+const PATH = '/home/kique/ACME-logic-exercice/src/data/setsOfData.txt';
 ```
 
 - You need to change the PATH const according the path of the `setsOfData.txt` file in your machine, then type in the terminal:
