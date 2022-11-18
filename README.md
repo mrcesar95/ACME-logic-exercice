@@ -42,7 +42,7 @@ const arrayOfData = fs.readFileSync(PATH, 'utf8').split('\n');
 
 Then type in the terminal and see the results:
 
-<img src="./images/testDos.png">
+<img src="./images/Test.png">
 
 
 # Synthesis of the solution
@@ -126,10 +126,6 @@ Are use by the **Employees in Office** function for get the final Result
 2. Getting final result
 
 <img src="./images/employees.png">
-
-## Test Results
-
-<img src="./images/test.png">
 
 # Conclusions and Recommendations
 
