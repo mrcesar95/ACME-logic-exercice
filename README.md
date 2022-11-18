@@ -20,7 +20,7 @@ npm install
 3. In the path `./src/employeesInOffice.test.js`, you will see:
 
 ```js
-const PATH = /home/kique/ioet-aplication/src/datasetsOfData.txt;
+const PATH = '/home/kique/ioet-aplication/src/datasetsOfData.txt';
 ```
 
 - You need to change the PATH const according the path of the `setsOfData.txt` file in your machine, then type in the terminal:
@@ -71,7 +71,6 @@ To solve this challenge I used Javascript, which is a multi-paradigm language an
 ## Tech Stack for this solution
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 
 # Step By Step to solve the challenge
 
