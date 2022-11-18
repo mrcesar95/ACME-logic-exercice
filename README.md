@@ -35,7 +35,7 @@ If the last not run and you get an error, then comment the lines 3 to 5 and paus
 
 ```js
 const fs = require('fs');
-const PATH = /home/kique/ioet-aplication/src/datasetsOfData.txt;
+const PATH = '/home/kique/ACME-logic-exercice/src/data/setsOfData.txt';
 const arrayOfData = fs.readFileSync(PATH, 'utf8').split('\n');
 ```
 
